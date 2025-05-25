@@ -12,6 +12,10 @@ Functionality: The features of the game include:
 After the user gets bored of the game or they have solved everything, there is a "retire" option that they can click on. In the retire browser, they can see what actually happened in the case and who is guilty.
 
 
+## 🌐 Live Demo
+[View the live website](https://kiishio.github.io/Murder-Mystery-Game/)
+
+
 ## Visual Demo: In-Game Screenshots
 ![image](https://github.com/user-attachments/assets/ca4c38b4-c1b5-480e-a92c-5ce3e0154aaf)
 ![image](https://github.com/user-attachments/assets/d28d302e-c2b7-4bf2-a1e4-25def8d650e8)
